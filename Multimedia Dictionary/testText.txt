@@ -1,0 +1,10 @@
+course
+A series of talks or lessons, for example, CS2210.
+homework
+Very enjoyable work that students need to complete outside the classroom.
+nap
+Something that students should try to avoid doing in class.
+computer
+An electronic machine frequently used by Computer Science students.
+exam
+Delightful exercises to check whether the students have learned the class material.
